@@ -31,7 +31,7 @@ export default function Navbar({ title = 'FusionSpa' }) {
               </li>
               <li className="nav-item">
                 <Link className="btn btn-primary my-3 mx-3" to="/About">
-                  About
+                  About Us
                 </Link>
               </li>
               <li className="nav-item">

@@ -51,13 +51,10 @@ Nestled in a serene corner of the city, FusionSpa is a haven of relaxation and r
                 <table className={`table text-center `}>
                   <tbody className="font-weight-normal">
                     <tr>
-                      <td>Sun - Thu:</td>
-                      <td>10am - 10pm</td>
+                      <td>7 days in a week:</td>
+                      <td>9am - 9pm</td>
                     </tr>
-                    <tr>
-                      <td>Friday:</td>
-                      <td>10am - 12pm</td>
-                    </tr>
+                    
                   </tbody>
                 </table>
               </div>
@@ -72,7 +69,7 @@ Nestled in a serene corner of the city, FusionSpa is a haven of relaxation and r
             style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
           >
             © 2024 Copyright :  
-            <a  href="https://hemrajpant69.github.io/">
+            <a  href="https://www.facebook.com/hptech69">
               HpTech
             </a>
           </div>
