@@ -12,7 +12,7 @@ const Home = () => {
                             <p className="lead">Escape to a world of relaxation and rejuvenation at FusionSpa. Our serene ambiance and expert therapists are here to help you unwind and refresh.</p>
                             <p className="lead">Indulge in our luxurious spa treatments and experience pure bliss. From soothing massages to rejuvenating facials, we have everything you need to pamper yourself.</p>
                             <p className="lead">Book your appointment today and embark on a journey to total well-being. Your oasis of calm awaits.</p>
-                            <button type="button" className="btn btn-primary btn-lg mt-4">Book Now</button>
+                            <button type="button" className="btn btn-primary btn-lg mt-4"> <a href="https://wa.me/+9779804661942" className="btn btn-primary" target="alt">Book Now</a></button>
                         </div>
                     </div>
                     <div className="col-md-6">
