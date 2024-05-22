@@ -28,19 +28,19 @@ Nestled in a serene corner of the city, FusionSpa is a haven of relaxation and r
               <div className="col-lg-4 col-md-6 mb-4 mb-md-0">
                 <ul className={`fa-ul`} style={{ marginLeft: "1.65em" }}>
                   <li className="mb-3">
-                    <span className="ms-2">Itahari, 02</span>
+                    <span className="ms-2">Itahari 06 panchamukhi chowk</span>
                   </li>
                   <li className="mb-3">
                     <span className="fa-li">
                       <i className="fas fa-envelope" />
                     </span>
-                    <span className="ms-2">fusionspa@example.com</span>
+                    <span className="ms-2">spafusionspa2055@gmail.com</span>
                   </li>
                   <li className="mb-3">
                     <span className="fa-li">
                       <i className="fas fa-phone" />
                     </span>
-                    <span className="ms-2">099-520-043</span>
+                    <span className="ms-2">9804661942</span>
                   </li>
                 </ul>
               </div>
